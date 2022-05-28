@@ -1,0 +1,22 @@
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\bin\Debug\Spotify.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\bin\Debug\Spotify.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Semester 3\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Semester 3\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.MainForm.resources
+C:\Users\HP\Documents\Semester 3\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Semester 3\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.exe
+C:\Users\HP\Documents\Semester 3\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.pdb
+C:\Users\HP\Documents\Semester 3\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Semester 3\SharpDevelop Projects\Spotify\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\spotify\Spotify\obj\Debug\Spotify.csproj.AssemblyReference.cache
+C:\xampp\htdocs\spotify\Spotify\obj\Debug\Spotify.MainForm.resources
+C:\xampp\htdocs\spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.cache
+C:\xampp\htdocs\spotify\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\spotify\Spotify\obj\Debug\Spotify.exe
+C:\xampp\htdocs\spotify\Spotify\obj\Debug\Spotify.pdb
+C:\xampp\htdocs\spotify\Spotify\obj\Debug\Spotify.csprojResolveAssemblyReference.cache

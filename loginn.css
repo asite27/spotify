@@ -1,0 +1,61 @@
+/* Login */
+
+body{
+    
+    background-color: rgb(213, 248, 248);
+}
+
+.container{
+    font-size: 30px;
+    display: flex;
+    font-family: sans-serif;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.login-box{
+    font-size: 23px;
+    margin-top: 150px;
+    flex-basis: 400px;
+    border-radius: 40px;
+    background: rgb(145, 92, 92);
+    padding: 20px;
+}
+
+.login-box h2{
+    border-bottom: 3px solid rgb(0, 0, 0);
+    color:rgb(7, 0, 0);
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 10 10 10px;
+}
+
+
+#form_input{
+    border-radius: 10px;
+    box-sizing : border-box;
+    font-family: cursive;
+	width: 100%;
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.tombol{
+    background: #60a860;
+    font-family:cursive;
+	color: white;
+	font-size: 20pt;
+	width: 100%;
+    outline: none;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 45px;
+}
+
+.tombol[type="submit"]:hover{
+    background: #ec6868;
+    border-radius: 45px;
+}
